@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
