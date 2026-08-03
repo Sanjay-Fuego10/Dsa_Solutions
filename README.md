@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
