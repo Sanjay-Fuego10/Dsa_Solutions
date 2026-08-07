@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
