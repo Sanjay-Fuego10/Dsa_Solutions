@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
+| [0875-koko-eating-bananas](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/Sanjay-Fuego10/DATA-STRUCTURE-AND-ALGORITHM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
